@@ -22,7 +22,6 @@ sections:
           - label: Kom igång
             url: /docs
             style: link
-        image: images/jamstack.svg
       - title: Blog
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
