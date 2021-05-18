@@ -19,7 +19,7 @@ sections:
         content: |
           Här hittar du hjälp om våra tjänster.
         actions:
-          - label: Get Started
+          - label: Kom igång
             url: /docs
             style: link
       - title: Blog
